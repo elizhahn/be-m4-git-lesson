@@ -11,3 +11,5 @@ function rebase() {
 
 
 //I am going to add more code here
+
+const giraffe = "animal"
